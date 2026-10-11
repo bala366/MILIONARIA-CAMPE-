@@ -1,0 +1,16 @@
++MILIONARIA CAMPEAO V1 - ANDROID / GITHUB
+
+PROJETO FONTE (nao e APK compilado).
+1. Crie um repositorio em https://github.com/new
+2. Extraia o ZIP e envie os ARQUIVOS E PASTAS internos para a raiz do repositorio.
+3. Abra Actions > Gerar APK Milionaria Campeao > Run workflow.
+4. Baixe MILIONARIA_CAMPEAO_APK nos Artifacts, se a compilacao concluir.
+
+O motor Python e copia literal do motor desktop V1, sem alteracoes de pontuacao.
+O adaptador chama read_history, analysis, select_game, select_trevos.
+O PDF e desenhado no Android (sem dependencias de PDF Python).
+O celular precisa permanecer com aplicativo aberto ate concluir 15.890.700 combinacoes.
+Analises estatisticas nao melhoram as probabilidades matematicas de uma aposta.
+
+Formato do TXT: numero do concurso, 6 dezenas de 01 a 50 e 2 trevos de 1 a 6.
+O parser e o mesmo do Windows; se seu arquivo tiver outro formato, sera necessario ajustar o leitor.

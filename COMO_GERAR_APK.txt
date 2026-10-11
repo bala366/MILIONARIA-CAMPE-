@@ -1,0 +1,6 @@
+ABRIR GITHUB: https://github.com/new
+1. Criar repositorio.
+2. Upload dos arquivos do ZIP na raiz.
+3. Actions -> Gerar APK Milionaria Campeao -> Run workflow.
+4. Artifacts -> MILIONARIA_CAMPEAO_APK.
+O APK so existe apos build bem sucedido.
